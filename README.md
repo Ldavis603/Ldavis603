@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm LaJanae Davis 
+!![](https://github.com/Ldavis603/Ldavis603/blob/main/jimcarrey.gif)
 
 <!--
 **Ldavis603/Ldavis603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm currently focused on full stack development.
+- 🌱
+
